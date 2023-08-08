@@ -267,4 +267,12 @@ main h1{
         display: none;
     }
 
+    .cate_esta{
+        justify-content: flex-start;
+    }
+    
+    .tipo{
+       margin: 15px;
+    }
+    
 }
